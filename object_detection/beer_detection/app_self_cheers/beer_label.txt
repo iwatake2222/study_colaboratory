@@ -1,0 +1,9 @@
+0 AsahiSuperDry
+1 ClearAsahi
+2 Hon_Kirin
+3 Kinmugi
+4 KIRIN_ICHI
+5 Nodogoshi
+6 PREMIUM_MALTS
+7 SAPPORO
+8 YEBISU
